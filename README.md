@@ -83,7 +83,8 @@ safemove-detector/
 
 The system detects animals under or near vehicles in real-time and alerts the user before ignition.
 
-![Detection Output](assets/output1.png)
+![Detection Output](https://raw.githubusercontent.com/gopujashwanth/safemove-detector/main/assets/output1.png)
+
   
 ---
 ## 👥 Team  
