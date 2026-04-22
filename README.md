@@ -45,29 +45,5 @@ Camera Input → Frame Processing → AI Model (YOLOv8) → Animal Detection →
 
 ---
 
-## ⚙️ System Workflow  
-```text
-Camera Input → Frame Processing → AI Model (YOLOv8) → Animal Detection → Alert Trigger
 
----
-
-## 📂 Project Structure  
-```bash
-safemove-detector/
-│── safemove_detector.ipynb
-│── README.md
-│── requirements.txt
-│
-│── src/
-│   ├── detect.py
-│   ├── alert.py
-│
-│── assets/
-│   ├── output1.png
-│
-│── models/
-│   └── model_info.txt
-
-
----
 
