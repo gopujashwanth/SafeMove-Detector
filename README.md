@@ -70,5 +70,26 @@ safemove-detector/
 │
 │── models/
 │   └── model_info.txt
+```
+---
+
+## 📊 Results
+✅ Real-time detection achieved
+✅ Detects partially hidden animals
+✅ Works in low-light conditions
+
+---
+## 📸 Demo  
+
+The system detects animals under or near vehicles in real-time and alerts the user before ignition.
+
+![Detection Output](assets/output1.png)
+  
+---
+## 👥 Team  
+
+- **Gopu Jashwanth**  
+- **Gandla Sai Siddartha**  
+- **Rallabandi Varshitha**  
 
 
