@@ -74,9 +74,9 @@ safemove-detector/
 ---
 
 ## 📊 Results
-✅ Real-time detection achieved
-✅ Detects partially hidden animals
-✅ Works in low-light conditions
+- ✅ Real-time detection achieved 
+- ✅ Detects partially hidden animals
+- ✅ Works in low-light conditions
 
 ---
 ## 📸 Demo  
