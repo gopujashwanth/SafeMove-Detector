@@ -51,4 +51,24 @@ git clone https://github.com/yourusername/safemove-detector.git
 cd safemove-detector
 pip install -r requirements.txt
 jupyter notebook safemove_detector.ipynb
+```
+---
+
+## 📂 Project Structure  
+```bash
+safemove-detector/
+│── safemove_detector.ipynb
+│── README.md
+│── requirements.txt
+│
+│── src/
+│   ├── detect.py
+│   ├── alert.py
+│
+│── assets/
+│   ├── output1.png
+│
+│── models/
+│   └── model_info.txt
+
 
