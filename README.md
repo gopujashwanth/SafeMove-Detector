@@ -11,7 +11,7 @@
 ## 📖 Overview  
 SafeMove Detector is an AI-powered safety system that detects small animals under or near parked vehicles before ignition.  
 
-Animals often take shelter under vehicles, which can lead to accidental injuries when the vehicle starts. This project uses **real-time object detection** to identify animals and alert the driver in advance.
+Animals often take shelter under vehicles, which can lead to accidental injuries when the vehicle starts. This project uses **real-time object detection** to identify animals and alert the driver before ignition.
 
 ---
 
