@@ -1,0 +1,3 @@
+Model: YOLOv8n
+Dataset: COCO
+Classes: Animals (cat, dog, etc.)
