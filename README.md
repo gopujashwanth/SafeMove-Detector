@@ -42,3 +42,12 @@ Many small animals (such as cats and puppies) hide under parked vehicles for war
 ## ⚙️ System Workflow  
 ```text
 Camera Input → Frame Processing → AI Model (YOLOv8) → Animal Detection → Alert Trigger
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]
+(https://colab.research.google.com/github/gopujashwanth/safemove-detector/blob/main/safemove_detector.ipynb)
+
+## 📸 Demo
+
+![Output](assets/output1.png)
+
+
