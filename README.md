@@ -45,6 +45,12 @@ Camera Input → Frame Processing → AI Model (YOLOv8) → Animal Detection →
 
 ---
 
+## ⚙️ System Workflow  
+```text
+Camera Input → Frame Processing → AI Model (YOLOv8) → Animal Detection → Alert Trigger
+
+---
+
 ## 📂 Project Structure  
 ```bash
 safemove-detector/
