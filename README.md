@@ -42,7 +42,7 @@ Many small animals (such as cats and puppies) hide under parked vehicles for war
 ## ⚙️ System Workflow  
 ```text
 Camera Input → Frame Processing → AI Model (YOLOv8) → Animal Detection → Alert Trigger 
-
+```
 ---
 
 ## ▶️ How to Run  
